@@ -1,0 +1,5 @@
+Here 4 represents you are skipping first 4 rows.
+
+// add resumes and excel sheet accordingly
+
+run  python3 main.py 4
